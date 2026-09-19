@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TashiMunish
 - 👀 I’m interested in developing my coding skills
-- 🌱 I’m currently learning java and javascript
 - 📫 How to reach me www.linkedin.com/in/tashimunish
 
 <!---
